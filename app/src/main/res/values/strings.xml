@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SMS Sending</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="start">Start service</string>
+    <string name="stop">Stop service</string>
+
+    <string name="checkBoxRepeat">Повторять каждые сутки</string>
+    <string name="hint_messageText">Текстовое сообщение</string>
+    <string name="text_butttonSetTime">Установить время отправки SMS</string>
+    <string name="text_buttonCancel">Отмена отправки</string>
+    <string name="text_setErrorNumber">Неверный формат номера</string>
+    <string name="text_setErrorText">Сообщение недолжно быть пустым</string>
+
+    <string name="text_toastSetTime">Рассылка SMS произойдёт в </string>
+    <string name="text_toastCancel">Рассылка SMS отменена</string>
+
+</resources>

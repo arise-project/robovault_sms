@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="margin_8">8dp</dimen>
+    <dimen name="margin_24">24dp</dimen>
+    <dimen name="clock_size">64dp</dimen>
+    <dimen name="system_font_size">16dp</dimen>
+
+    <dimen name="padding_text">4dp</dimen>
+    <dimen name="padding_4">4dp</dimen>
+</resources>
